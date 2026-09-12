@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cn1yqqwlp3s3t"
-path="res://.godot/imported/Flag.png-2e261c384ca4b82350c2d7d74edd4141.ctex"
+uid="uid://8ktjm0jlgd2d"
+path="res://.godot/imported/Coin.png-e04493275dc48227ad85986424b0789e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/4 Animated objects/Flag.png"
-dest_files=["res://.godot/imported/Flag.png-2e261c384ca4b82350c2d7d74edd4141.ctex"]
+source_file="res://assets/Swamp/Coin.png"
+dest_files=["res://.godot/imported/Coin.png-e04493275dc48227ad85986424b0789e.ctex"]
 
 [params]
 
