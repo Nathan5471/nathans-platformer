@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b22wwpdu3y2ms"
-path="res://.godot/imported/10.png-4bc0021fb0d17732e1d2a3a3e42659f4.ctex"
+uid="uid://c3qlcc4nmx6gy"
+path="res://.godot/imported/4 Conjoined Spikes.png-a26acd7dca4c57fcb2c95e4032a62c4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/3 Objects/Grass/10.png"
-dest_files=["res://.godot/imported/10.png-4bc0021fb0d17732e1d2a3a3e42659f4.ctex"]
+source_file="res://assets/Swamp/4 Conjoined Spikes.png"
+dest_files=["res://.godot/imported/4 Conjoined Spikes.png-a26acd7dca4c57fcb2c95e4032a62c4f.ctex"]
 
 [params]
 

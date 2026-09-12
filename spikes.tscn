@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://csaa7axx0obq0"]
+
+[ext_resource type="Script" uid="uid://glvui60blndx" path="res://spikes.gd" id="1_nrdsm"]
+[ext_resource type="Texture2D" uid="uid://c3qlcc4nmx6gy" path="res://assets/Swamp/4 Conjoined Spikes.png" id="2_8fhau"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gqpgd"]
+size = Vector2(42, 10)
+
+[node name="Spikes" type="Area2D" unique_id=92121948]
+script = ExtResource("1_nrdsm")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=843122968]
+shape = SubResource("RectangleShape2D_gqpgd")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1200967001]
+texture = ExtResource("2_8fhau")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
